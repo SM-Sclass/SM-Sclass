@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SM-Sclass
 - 👀 I’m interested in FullStack software buidling
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Cloud computing staffs
 - 📫 How to reach me smclover376@gmail.com
   
 
