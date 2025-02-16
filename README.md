@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SM-Sclass
-- 👀 I’m interested in FullStack software buidling
+- 👀 I’m interested in FullStack software building
 - 🌱 I’m currently learning Cloud computing stuffs
 - 📫 How to reach me smclover376@gmail.com
   
